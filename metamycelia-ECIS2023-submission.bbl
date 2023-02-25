@@ -1,0 +1,303 @@
+\begin{thebibliography}{xx}
+
+\harvarditem[Abran et~al.]{Abran, Moore, Bourque, Dupuis \harvardand\
+  Tripp}{2004}{abran2004software}
+Abran, Alain, James~W Moore, Pierre Bourque, Robert Dupuis \harvardand\ L Tripp
+   \harvardyearleft 2004\harvardyearright , `Software engineering body of
+  knowledge', {\em IEEE Computer Society, Angela Burgess} p.~25.
+
+\harvarditem{Al-Jaroodi \harvardand\ Mohamed}{2016}{al2016characteristics}
+Al-Jaroodi, Jameela \harvardand\ Nader Mohamed  \harvardyearleft
+  2016\harvardyearright , Characteristics and requirements of big data
+  analytics applications, {\em in} `2016 IEEE 2nd International Conference on
+  Collaboration and Internet Computing (CIC)', pp.~426--432.
+
+\harvarditem[Angelov et~al.]{Angelov, Trienekens \harvardand\
+  Grefen}{2008}{angelov2008towards}
+Angelov, Samuil, Jos~JM Trienekens \harvardand\ Paul Grefen  \harvardyearleft
+  2008\harvardyearright , Towards a method for the evaluation of reference
+  architectures: Experiences from a case, {\em in} `European Conference on
+  Software Architecture', Springer, pp.~225--240.
+
+\harvarditem[Angelov et~al.]{Angelov, Grefen \harvardand\
+  Greefhorst}{2009}{angelov2009classification}
+Angelov, Samuil, Paul Grefen \harvardand\ Danny Greefhorst  \harvardyearleft
+  2009\harvardyearright , A classification of software reference architectures:
+  Analyzing their success and effectiveness, {\em in} `2009 Joint Working
+  IEEE/IFIP Conference on Software Architecture \& European Conference on
+  Software Architecture', pp.~141--150.
+
+\harvarditem{Ataei \harvardand\ Litchfield}{2022}{ataei2022state}
+Ataei, Pouya \harvardand\ Alan Litchfield  \harvardyearleft
+  2022\harvardyearright , `The state of big data reference architectures: a
+  systematic literature review', {\em IEEE Access} .
+
+\harvarditem{Avgeriou}{2003}{Avgeriou}
+Avgeriou, Paris  \harvardyearleft 2003\harvardyearright , `Describing,
+  instantiating and evaluating a reference architecture: A case study', {\em
+  Enterprise Architecture Journal} {\bf 342},~1--24.
+
+\harvarditem{Bahrami \harvardand\ Singhal}{2015}{Bahrami2015}
+Bahrami, Mehdi \harvardand\ Mukesh Singhal  \harvardyearleft
+  2015\harvardyearright , {\em The role of cloud computing architecture in big
+  data}, Springer, pp.~275--295.
+
+\harvarditem[Bass et~al.]{Bass, Clements \harvardand\
+  Kazman}{2021}{SoftwareArchitectureKazman}
+Bass, Len, Paul Clements \harvardand\ Rick Kazman  \harvardyearleft
+  2021\harvardyearright , {\em Software Architecture in Practice (SEI Series in
+  Software Engineering) 4th Edition}, Addison-Wesley Professional; 4th edition.
+
+\harvarditem[Bayer et~al.]{Bayer, Flege, Knauber, Laqua, Muthig, Schmid, Widen
+  \harvardand\ DeBaud}{1999}{bayer1999pulse}
+Bayer, Joachim, Oliver Flege, Peter Knauber, Roland Laqua, Dirk Muthig, Klaus
+  Schmid, Tanya Widen \harvardand\ Jean-Marc DeBaud  \harvardyearleft
+  1999\harvardyearright , Pulse: A methodology to develop software product
+  lines, {\em in} `Proceedings of the 1999 symposium on Software reusability',
+  pp.~122--131.
+
+\harvarditem{Cackett}{2013}{cackett2013information}
+Cackett, Doug  \harvardyearleft 2013\harvardyearright , `Information management
+  and big data, a reference architecture', {\em Oracle: Redwood City, CA, USA}
+  .
+\newline\harvardurl{https://www.oracle.com/technetwork/topics/entarch/articles/info-mgmt-big-data-ref-arch-1902853.pdf}
+
+\harvarditem{Chang \harvardand\ Boyd}{2018}{Chang}
+Chang, Wo~L \harvardand\ David Boyd  \harvardyearleft 2018\harvardyearright ,
+  Nist big data interoperability framework: Volume 6, big data reference
+  architecture, Technical report, NIST.
+
+\harvarditem[Chen et~al.]{Chen, Kazman \harvardand\ Haziyev}{2016}{Chen2016a}
+Chen, Hong-Mei, Rick Kazman \harvardand\ Serge Haziyev  \harvardyearleft
+  2016\harvardyearright , Agile big data analytics development: An
+  architecture-centric approach, {\em in} `2016 49th Hawaii International
+  Conference on System Sciences (HICSS)', IEEE, pp.~5378--5387.
+
+\harvarditem[Cloutier et~al.]{Cloutier, Muller, Verma, Nilchiani, Hole
+  \harvardand\ Bone}{2010}{Cloutier}
+Cloutier, Robert, Gerrit Muller, Dinesh Verma, Roshanak Nilchiani, Eirik Hole
+  \harvardand\ Mary Bone  \harvardyearleft 2010\harvardyearright , `The concept
+  of reference architectures', {\em Systems Engineering} {\bf 13}(1),~14--27.
+
+\harvarditem{Dehghani}{2022}{dataMeshBook}
+Dehghani, Zhamak  \harvardyearleft 2022\harvardyearright , {\em Data Mesh:
+  Delivering Data-Driven Value at Scale}, O'Reilly Media.
+
+\harvarditem[Derras et~al.]{Derras, Deruelle, Douin, Levy, Losavio, Pollet
+  \harvardand\ Reiner}{n.d.}{Derras}
+Derras, Mustapha, Laurent Deruelle, Jean-Michel Douin, Nicole Levy, Francisca
+  Losavio, Yann Pollet \harvardand\ Valérie Reiner  \harvardyearleft
+  n.d.\harvardyearright , Reference architecture design: A practical approach,
+  {\em in} `ICSOFT', pp.~633--640.
+
+\harvarditem{{\em DRAFT NIST Big Data Interoperability Framework: Volume 5,
+  Architectures White Paper Survey}}{2015}{framework2015draft}
+{\em DRAFT NIST Big Data Interoperability Framework: Volume 5, Architectures
+  White Paper Survey}  \harvardyearleft 2015\harvardyearright .
+
+\harvarditem[Eridaputra et~al.]{Eridaputra, Hendradjaya \harvardand\
+  Sunindyo}{2014}{eridaputra2014modeling}
+Eridaputra, Hanif, Bayu Hendradjaya \harvardand\ Wikan~Danar Sunindyo
+  \harvardyearleft 2014\harvardyearright , Modeling the requirements for big
+  data application using goal oriented approach, {\em in} `2014 international
+  conference on data and software engineering (ICODSE)', pp.~1--6.
+
+\harvarditem{Evans \harvardand\ Evans}{2004}{evans2004domain}
+Evans, Eric \harvardand\ Eric~J Evans  \harvardyearleft 2004\harvardyearright ,
+  {\em Domain-driven design: tackling complexity in the heart of software},
+  Addison-Wesley Professional.
+
+\harvarditem{Galster \harvardand\ Avgeriou}{2011}{galster2011empirically}
+Galster, Matthias \harvardand\ Paris Avgeriou  \harvardyearleft
+  2011\harvardyearright , Empirically-grounded reference architectures: a
+  proposal, {\em in} `Proceedings of the joint ACM SIGSOFT conference--QoSA and
+  ACM SIGSOFT symposium--ISARCS on Quality of software architectures--QoSA and
+  architecting critical systems--ISARCS', pp.~153--158.
+
+\harvarditem{{\em {ISO18384-1}. Information technology --- Reference
+  Architecture for Service Oriented Architecture (SOA RA) --- Part 1:
+  Terminology and concepts for SOA}}{2016}{Iso18384-1}
+{\em {ISO18384-1}. Information technology --- Reference Architecture for
+  Service Oriented Architecture (SOA RA) --- Part 1: Terminology and concepts
+  for SOA}  \harvardyearleft 2016\harvardyearright .
+\newline\harvardurl{https://www.iso.org/standard/63104.html}
+
+\harvarditem{{\em ISO/IEC 25000:2005. Software Engineering --- Software product
+  Quality Requirements and Evaluation (SQuaRE) --- Guide to
+  SQuaRE}}{2014}{ISO25000}
+{\em ISO/IEC 25000:2005. Software Engineering --- Software product Quality
+  Requirements and Evaluation (SQuaRE) --- Guide to SQuaRE}  \harvardyearleft
+  2014\harvardyearright .
+
+\harvarditem{{\em {ISO/IEC} 26550: 2015-Software and systems
+  engineering--Reference model for product line engineering and
+  management}}{2015}{wg2015iso}
+{\em {ISO/IEC} 26550: 2015-Software and systems engineering--Reference model
+  for product line engineering and management}  \harvardyearleft
+  2015\harvardyearright .
+
+\harvarditem{{\em ISO/IEC 29148:2018. Systems and software engineering --- Life
+  cycle processes --- Requirements engineering}}{2018}{ISO29148}
+{\em ISO/IEC 29148:2018. Systems and software engineering --- Life cycle
+  processes --- Requirements engineering}  \harvardyearleft
+  2018\harvardyearright .
+\newline\harvardurl{https://www.iso.org/standard/72089.html}
+
+\harvarditem{{\em ISO/IEC/IEEE 42010:2011. Systems and software engineering ---
+  Architecture description}}{2017}{ISO42010}
+{\em ISO/IEC/IEEE 42010:2011. Systems and software engineering --- Architecture
+  description}  \harvardyearleft 2017\harvardyearright .
+\newline\harvardurl{https://www.iso.org/standard/50508.html}
+
+\harvarditem{{\em ISO/IEC TR 20547-1:2020. Information technology --- Big data
+  reference architecture --- Part 1: Framework and application
+  process}}{2020}{ISO20547}
+{\em ISO/IEC TR 20547-1:2020. Information technology --- Big data reference
+  architecture --- Part 1: Framework and application process}  \harvardyearleft
+  2020\harvardyearright .
+\newline\harvardurl{https://www.iso.org/standard/71275.html}
+
+\harvarditem[Kassab et~al.]{Kassab, Neill \harvardand\
+  Laplante}{2014}{kassab2014state}
+Kassab, Mohamad, Colin Neill \harvardand\ Phillip Laplante  \harvardyearleft
+  2014\harvardyearright , `State of practice in requirements engineering:
+  contemporary data', {\em Innovations in Systems and Software Engineering}
+  {\bf 10}(4),~235--241.
+
+\harvarditem[Kazman et~al.]{Kazman, Klein, Barbacci, Longstaff, Lipson
+  \harvardand\ Carriere}{n.d.}{KazmanATAM}
+Kazman, Rick, Mark Klein, Mario Barbacci, Tom Longstaff, Howard Lipson
+  \harvardand\ Jeromy Carriere  \harvardyearleft n.d.\harvardyearright , The
+  architecture tradeoff analysis method, {\em in} `Proceedings. Fourth IEEE
+  International Conference on Engineering of Complex Computer Systems (Cat. No.
+  98EX193)', IEEE, pp.~68--78.
+
+\harvarditem[Kiran et~al.]{Kiran, Murphy, Monga, Dugan \harvardand\
+  Baveja}{2015}{kiran2015lambda}
+Kiran, Mariam, Peter Murphy, Inder Monga, Jon Dugan \harvardand\ Sartaj~Singh
+  Baveja  \harvardyearleft 2015\harvardyearright , Lambda architecture for
+  cost-effective batch and speed big data processing, {\em in} `2015 IEEE
+  International Conference on Big Data (Big Data)', IEEE, pp.~2785--2792.
+
+\harvarditem[Klein et~al.]{Klein, Buglak, Blockow, Wuttke \harvardand\
+  Cooper}{n.d.}{Klein}
+Klein, John, Ross Buglak, David Blockow, Troy Wuttke \harvardand\ Brenton
+  Cooper  \harvardyearleft n.d.\harvardyearright , A reference architecture for
+  big data systems in the national security domain, {\em in} `2016 IEEE/ACM 2nd
+  International Workshop on Big Data Software Engineering (BIGDSE)', IEEE,
+  pp.~51--57.
+
+\harvarditem{Laplante}{2017}{laplante2017requirements}
+Laplante, Phillip~A  \harvardyearleft 2017\harvardyearright , {\em Requirements
+  engineering for software and systems}, Auerbach Publications.
+
+\harvarditem{Levin}{2013}{levin2013big}
+Levin, BO  \harvardyearleft 2013\harvardyearright , `Big data ecosystem
+  reference architecture', {\em Microsoft Corporation} .
+
+\harvarditem{Lin}{2017}{lin2017lambda}
+Lin, Jimmy  \harvardyearleft 2017\harvardyearright , `The lambda and the
+  kappa', {\em IEEE Internet Computing} {\bf 21}(05),~60--66.
+
+\harvarditem[Maamouri et~al.]{Maamouri, Sfaxi \harvardand\
+  Robbana}{2021}{maamouri2021phi}
+Maamouri, Amine, Lilia Sfaxi \harvardand\ Riadh Robbana  \harvardyearleft
+  2021\harvardyearright , Phi: A generic microservices-based big data
+  architecture, {\em in} `European, Mediterranean, and Middle Eastern
+  Conference on Information Systems', pp.~3--16.
+
+\harvarditem[Maier et~al.]{Maier, Serebrenik \harvardand\
+  Vanderfeesten}{2013}{Maier}
+Maier, Markus, A Serebrenik \harvardand\ ITP Vanderfeesten  \harvardyearleft
+  2013\harvardyearright , `Towards a big data reference architecture', {\em
+  University of Eindhoven} .
+
+\harvarditem[Nakagawa et~al.]{Nakagawa, Guessi, Maldonado, Feitosa \harvardand\
+  Oquendo}{2014}{nakagawa2014consolidating}
+Nakagawa, Elisa~Y, Milena Guessi, Jos{\'e}~C Maldonado, Daniel Feitosa
+  \harvardand\ Flavio Oquendo  \harvardyearleft 2014\harvardyearright ,
+  Consolidating a process for the design, representation, and evaluation of
+  reference architectures, {\em in} `2014 IEEE/IFIP Conference on Software
+  Architecture', pp.~143--152.
+
+\harvarditem[Nakagawa et~al.]{Nakagawa, Martins, Felizardo \harvardand\
+  Maldonado}{2009}{Nakagawa}
+Nakagawa, Elisa~Yumi, Rafael~Messias Martins, Katia~Romero Felizardo
+  \harvardand\ Jose~Carlos Maldonado  \harvardyearleft 2009\harvardyearright ,
+  Towards a process to design aspect-oriented reference architectures, {\em in}
+  `XXXV Latin American Informatics Conference (CLEI) 2009'.
+
+\harvarditem{NASA}{2008}{NASA}
+NASA  \harvardyearleft 2008\harvardyearright , `Reference architecture for
+  space data systems'.
+
+\harvarditem{Partners}{2021}{NewVantageSurvey}
+Partners, NewVantage  \harvardyearleft 2021\harvardyearright , `Big data and ai
+  executive survey 2021'.
+\newline\harvardurl{https://www.newvantage.com/thoughtleadership}
+
+\harvarditem[Quintero et~al.]{Quintero, Lee et~al.}{2019}{quintero2019ibm}
+Quintero, Dino, Frank~N Lee et~al.  \harvardyearleft 2019\harvardyearright ,
+  {\em IBM reference architecture for high performance data and AI in
+  healthcare and life sciences}, IBM Redbooks.
+
+\harvarditem{Richardson}{2018}{richardson2018microservices}
+Richardson, Chris  \harvardyearleft 2018\harvardyearright , {\em Microservices
+  patterns: with examples in Java}, Simon and Schuster.
+
+\harvarditem{{\em {SAP} - {NEC} Reference Architecture for SAP HANA \&
+  Hadoop}}{2016}{SAPRA}
+{\em {SAP} - {NEC} Reference Architecture for SAP HANA \& Hadoop}
+  \harvardyearleft 2016\harvardyearright .
+\newline\harvardurl{https://www.scribd.com/document/418835912/Whitepaper-NEC-SAPHANA-Hadoop}
+
+\harvarditem{Sommerville}{2011}{sommerville2011software}
+Sommerville, Ian  \harvardyearleft 2011\harvardyearright , {\em Software
+  Engineering, 9/E}, Pearson Education India.
+
+\harvarditem[Stricker et~al.]{Stricker, Lauenroth, Corte, Gittler, De~Panfilis
+  \harvardand\ Pohl}{2010}{stricker2010creating}
+Stricker, Vanessa, Kim Lauenroth, Piero Corte, Frederic Gittler, Stefano
+  De~Panfilis \harvardand\ Klaus Pohl  \harvardyearleft 2010\harvardyearright ,
+  Creating a reference architecture for service-based systems--a pattern-based
+  approach, {\em in} `Towards the Future Internet', IOS Press, pp.~149--160.
+
+\harvarditem{Suthakar}{2017}{suthakar2017scalable}
+Suthakar, Uthayanath  \harvardyearleft 2017\harvardyearright , A scalable data
+  store and analytic platform for real-time monitoring of data-intensive
+  scientific infrastructure, PhD thesis, Brunel University London.
+
+\harvarditem{technology review insights in partnership~with
+  Databricks}{2021}{DataBricksSurvey}
+technology review insights in partnership~with Databricks, MIT
+  \harvardyearleft 2021\harvardyearright , `Building a high-performance data
+  organization'.
+\newline\harvardurl{https://databricks.com/p/whitepaper/mit-technology-review-insights-report}
+
+\harvarditem[Volk et~al.]{Volk, Staegemann, Trifonova, Bosse \harvardand\
+  Turowski}{2020}{volk2020identifying}
+Volk, Matthias, Daniel Staegemann, Ivayla Trifonova, Sascha Bosse \harvardand\
+  Klaus Turowski  \harvardyearleft 2020\harvardyearright , `Identifying
+  similarities of big data projects--a use case driven approach', {\em IEEE
+  Access} {\bf 8},~186599--186619.
+
+\harvarditem{Weyrich \harvardand\ Ebert}{2015}{weyrich2015reference}
+Weyrich, Michael \harvardand\ Christof Ebert  \harvardyearleft
+  2015\harvardyearright , `Reference architectures for the internet of things',
+  {\em IEEE Software} {\bf 33}(1),~112--116.
+
+\harvarditem{White}{2019}{GartnerSury}
+White, Andrew  \harvardyearleft 2019\harvardyearright , `Our top data and
+  analytics predicts for 2019'.
+\newline\harvardurl{https://blogs.gartner.com/andrew\_white/2019/01/03/our-top-data-and-analytics-predicts-for-2019/}
+
+\harvarditem{Wieringa}{2014}{wieringa2014design}
+Wieringa, Roel~J  \harvardyearleft 2014\harvardyearright , {\em Design science
+  methodology for information systems and software engineering}, Springer.
+
+\harvarditem{Yu \harvardand\ Zhou}{2019}{yu2019components}
+Yu, Jing-Huan \harvardand\ Zi-Meng Zhou  \harvardyearleft 2019\harvardyearright
+  , `Components and development in big data system: A survey', {\em Journal of
+  Electronic Science and Technology} {\bf 17}(1),~51--72.
+
+\end{thebibliography}

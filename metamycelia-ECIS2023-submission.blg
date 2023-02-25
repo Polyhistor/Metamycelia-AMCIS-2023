@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: metamycelia-ECIS2023-submission.aux
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+The style file: jmr.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Database file #1: mybibfile.bib
+You've used 50 entries,
+            2923 wiz_defined-function locations,
+            909 strings with 13919 characters,
+and the built_in function-call counts, 264704 in all, are:
+= -- 44586
+> -- 2385
+< -- 0
++ -- 21291
+- -- 833
+* -- 23187
+:= -- 51170
+add.period$ -- 50
+call.type$ -- 50
+change.case$ -- 643
+chr.to.int$ -- 50
+cite$ -- 50
+duplicate$ -- 875
+empty$ -- 1666
+format.name$ -- 969
+if$ -- 48096
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 45
+newline$ -- 162
+num.names$ -- 440
+pop$ -- 348
+preamble$ -- 1
+purify$ -- 710
+quote$ -- 0
+skip$ -- 741
+stack$ -- 0
+substring$ -- 63697
+swap$ -- 231
+text.length$ -- 620
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 182
+warning$ -- 0
+while$ -- 967
+width$ -- 0
+write$ -- 654

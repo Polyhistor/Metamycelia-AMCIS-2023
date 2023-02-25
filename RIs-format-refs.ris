@@ -1,0 +1,4942 @@
+TY  - JOUR
+AU  - Abran, Alain
+AU  - Moore, James W.
+AU  - Bourque, Pierre
+AU  - Dupuis, Robert
+AU  - Tripp, L.
+T1  - Software engineering body of knowledge
+JO  - IEEE Computer Society, Angela Burgess
+Y1  - 2004
+
+
+SP  - 25
+EP  - 25
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Aceto, Luca
+AU  - Ingólfsdóttir, Anna
+AU  - Larsen, Kim Guldstrand
+AU  - Srba, Jiri
+
+T1  - Reactive systems: modelling, specification and verification
+PB  - cambridge university press
+
+Y1  - 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Al-Jaroodi, Jameela
+AU  - Mohamed, Nader
+
+T1  - Characteristics and requirements of big data analytics applications
+T2  - 2016 IEEE 2nd International Conference on Collaboration and Internet Computing (CIC)
+
+
+Y1  - 2016
+
+
+SP  - 426–432
+EP  - 426–432
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Alshuqayran, Nuha
+AU  - Ali, Nour
+AU  - Evans, Roger
+
+T1  - A systematic mapping study in microservice architecture
+T2  - 2016 IEEE 9th International Conference on Service-Oriented Computing and Applications (SOCA)
+PB  - IEEE
+
+Y1  - 2016
+
+
+SP  - 44–51
+EP  - 44–51
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - RPRT
+AU  - Analytics, McKinsey
+
+T1  - The age of analytics: competing in a data-driven world
+
+Y1  - 2016
+
+
+
+UR  - https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-age-of-analytics-competing-in-a-data-driven-world
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Angelov, Samuil
+AU  - Grefen, Paul
+T1  - An e-contracting reference architecture
+JO  - Journal of Systems and Software
+Y1  - 2008
+VL  - 81
+IS  - 11
+SP  - 1816–1844
+EP  - 1816–1844
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Angelov, Samuil
+AU  - Trienekens, Jos J. M.
+AU  - Grefen, Paul
+
+T1  - Towards a method for the evaluation of reference architectures: Experiences from a case
+T2  - European Conference on Software Architecture
+PB  - Springer
+
+Y1  - 2008
+
+
+SP  - 225–240
+EP  - 225–240
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Angelov, Samuil
+AU  - Grefen, Paul
+AU  - Greefhorst, Danny
+
+T1  - A classification of software reference architectures: Analyzing their success and effectiveness
+T2  - 2009 Joint Working IEEE/IFIP Conference on Software Architecture & European Conference on Software Architecture
+
+
+Y1  - 2009
+
+
+SP  - 141–150
+EP  - 141–150
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Angelov, Samuil
+AU  - Grefen, Paul
+AU  - Greefhorst, Danny
+T1  - A framework for analysis and design of software reference architectures
+JO  - Information and Software Technology
+Y1  - 2012
+VL  - 54
+IS  - 4
+SP  - 417–431
+EP  - 417–431
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Angelov, S. A.
+AU  - Trienekens, Jos J. M.
+AU  - Grefen, P. W. P. J.
+T1  - Extending and adapting the architecture tradeoff analysis method for the evaluation of software reference architectures
+
+Y1  - 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - ACM, A. N. S. I.
+T1  - X3/SPARC study group on DBMS, interim report
+JO  - SIGMOD FDT Bull
+Y1  - 1975
+VL  - 7
+IS  - 2
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+
+T1  - Apache Beam
+
+
+
+
+
+UR  - https://beam.apache.org/
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Ataei, Pouya
+AU  - Litchfield, Alan
+T1  - The state of big data reference architectures: a systematic literature review
+JO  - IEEE Access
+Y1  - 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Ataei, Pouya
+AU  - Litchfield, Alan T.
+
+T1  - Big Data Reference Architectures, a systematic literature review
+T2  - Australasian Conference on Information Systems, 2020
+PB  - AIS
+AD  - Wellington, NZ
+Y1  - 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Ataei, Pouya
+AU  - Litchfield, Alan T.
+
+T1  - NeoMycelia: A software reference architecture for big data systems
+T2  - 2021 28th Asia-Pacific Software Engineering Conference (APSEC)
+PB  - IEEE Computer Society
+AD  - Los Alamitos, CA, USA
+Y1  - 2021/12
+
+
+SP  - 452
+EP  - 462
+
+M3  - https://doi.org/10.1109/APSEC53868.2021.00052
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Bashari Rad, B.
+AU  - Akbarzadeh, N.
+AU  - Ataei, P.
+AU  - Khakbiz, Y.
+T1  - Security and Privacy Challenges in Big Data Era
+JO  - International Journal of Control Theory and Applications
+Y1  - 2016
+VL  - 9
+IS  - 43
+SP  - 437
+EP  - 448
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Avgeriou, Paris
+T1  - Describing, instantiating and evaluating a reference architecture: A case study
+JO  - Enterprise Architecture Journal
+Y1  - 2003
+VL  - 342
+
+SP  - 1
+EP  - 24
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Avgeriou, Paris
+T1  - Describing, instantiating and evaluating a reference architecture: A case study
+JO  - Enterprise Architecture Journal
+Y1  - 2003
+VL  - 342
+
+SP  - 1–24
+EP  - 1–24
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Babcock, Brian
+AU  - Babu, Shivnath
+AU  - Datar, Mayur
+AU  - Motwani, Rajeev
+AU  - Widom, Jennifer
+
+T1  - Models and issues in data stream systems
+T2  - Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems
+
+
+
+
+
+SP  - 1
+EP  - 16
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Bahrami, Mehdi
+AU  - Singhal, Mukesh
+
+T1  - The role of cloud computing architecture in big data
+
+PB  - Springer
+
+Y1  - 2015
+
+
+SP  - 275
+EP  - 295
+
+M3  - https://doi.org/10.1201/9781315155678-8
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Bashari Rad, Babak
+AU  - Akbarzadeh, Nafisseh
+AU  - Ataei, Pouya
+AU  - Khakbiz, Yasaman
+T1  - Security and privacy challenges in big data era
+JO  - International Journal of Control Theory and Applications
+Y1  - 2016
+VL  - 9
+IS  - 43
+SP  - 437–448
+EP  - 437–448
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Bass, Len
+AU  - Weber, Ingo
+AU  - Zhu, Liming
+
+T1  - DevOps: A software architect's perspective
+PB  - Addison-Wesley Professional
+
+Y1  - 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Bayer, Joachim
+AU  - Flege, Oliver
+AU  - Knauber, Peter
+AU  - Laqua, Roland
+AU  - Muthig, Dirk
+AU  - Schmid, Klaus
+AU  - Widen, Tanya
+AU  - DeBaud, Jean-Marc
+
+T1  - PuLSE: A methodology to develop software product lines
+T2  - Proceedings of the 1999 symposium on Software reusability
+
+
+Y1  - 1999
+
+
+SP  - 122–131
+EP  - 122–131
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Bayer, Joachim
+AU  - Forster, Thomas
+AU  - Ganesan, Dharmalingam
+AU  - Girard, Jean-François
+AU  - John, Isabel
+AU  - Knodel, Jens
+AU  - Kolb, Ronny
+AU  - Muthig, Dirk
+T1  - Definition of reference architectures based on existing systems
+JO  - Fraunhofer IESE, March
+Y1  - 2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Bellemare, Adam
+
+T1  - Building Event-Driven Microservices
+PB  - " O'Reilly Media, Inc."
+
+Y1  - 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Beneken, Gerd
+T1  - Referenzarchitekturen
+
+Y1  - 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Bengtsson, PerOlof
+AU  - Lassing, Nico
+AU  - Bosch, Jan
+AU  - van Vliet, Hans
+T1  - Architecture-level modifiability analysis (ALMA)
+JO  - Journal of Systems and Software
+Y1  - 2004
+VL  - 69
+IS  - 1-2
+SP  - 129
+EP  - 147
+
+
+
+
+U1  - 0164-1212
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Bengtsson, PerOlof
+AU  - Bosch, Jan
+
+T1  - Scenario-based software architecture reengineering
+T2  - Proceedings. Fifth International Conference on Software Reuse (Cat. No. 98TB100203)
+PB  - IEEE
+
+Y1  - 1998
+
+
+SP  - 308–317
+EP  - 308–317
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Birukou, A.
+T1  - NEXOF-RA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Booch, Grady
+AU  - Jacobson, Ivar
+AU  - Rumbaugh, James
+AU  - others
+T1  - The unified modeling language
+JO  - Unix Review
+Y1  - 1996
+VL  - 14
+IS  - 13
+SP  - 5
+EP  - 5
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Brackenbury, Will
+AU  - Liu, Rui
+AU  - Mondal, Mainack
+AU  - Elmore, Aaron J.
+AU  - Ur, Blase
+AU  - Chard, Kyle
+AU  - Franklin, Michael J.
+
+T1  - Draining the data swamp: A similarity-based approach
+T2  - Proceedings of the workshop on human-in-the-loop data analytics
+
+
+Y1  - 2018
+
+
+SP  - 1–7
+EP  - 1–7
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Bughin, Jacques
+T1  - Big data, Big bang?
+JO  - Journal of Big Data
+Y1  - 2016
+VL  - 3
+IS  - 1
+SP  - 2
+EP  - 2
+
+M3  - https://doi.org/10.1186/s40537-015-0014-3
+
+
+U1  - 2196-1115
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Buschmann, Frank
+AU  - Meunier, Regine
+AU  - Rohnert, Hans
+AU  - Sommerlad, Peter
+AU  - Stal, Michael
+
+T1  - Pattern-Oriented System Architecture: a System of Patterns, chapter 2.3
+
+PB  - John Wiley & Sons
+
+Y1  - 1996
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Cackett, Doug
+T1  - Information management and big data, a reference architecture
+JO  - Oracle: Redwood City, CA, USA
+Y1  - 2013
+
+
+
+UR  - https://www.oracle.com/technetwork/topics/entarch/articles/info-mgmt-big-data-ref-arch-1902853.pdf
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CHAP
+AU  - Castellanos, Camilo
+AU  - Perez, Boris
+AU  - Correal, Dario
+
+T1  - Smart transportation: A reference architecture for big data analytics
+T2  - Smart Cities: A Data Analytics Perspective
+PB  - Springer
+
+Y1  - 2021
+
+
+SP  - 161–179
+EP  - 161–179
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Chaabane, Mariam
+AU  - Bouassida, Ismael
+AU  - Jmaiel, Mohamed
+
+T1  - System of systems software architecture description using the ISO/IEC/IEEE 42010 standard
+T2  - Proceedings of the Symposium on Applied Computing
+
+
+
+
+
+SP  - 1793
+EP  - 1798
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - RPRT
+AU  - Chang, Wo L.
+AU  - Boyd, David
+
+T1  - NIST Big Data Interoperability Framework: Volume 6, Big Data Reference Architecture
+
+Y1  - 2018
+
+
+
+
+
+
+
+
+N1  - Technical Report
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Chen, Lianping
+AU  - Babar, Muhammad Ali
+T1  - A systematic review of evaluation of variability management approaches in software product lines
+JO  - Information and Software Technology
+Y1  - 2011
+VL  - 53
+IS  - 4
+SP  - 344–362
+EP  - 344–362
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Chen, Hong-Mei
+AU  - Kazman, Rick
+AU  - Haziyev, Serge
+
+T1  - Agile big data analytics development: An architecture-centric approach
+T2  - 2016 49th Hawaii International Conference on System Sciences (HICSS)
+PB  - IEEE
+
+Y1  - 2016
+
+
+SP  - 5378
+EP  - 5387
+
+M3  - https://doi.org/10.1109/hicss.2016.665
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Chen, Hong-Mei
+AU  - Kazman, Rick
+AU  - Garbajosa, Juan
+AU  - Gonzalez, Eloy
+T1  - Big data value engineering for business model innovation
+
+Y1  - 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Chen, Hong-Mei
+AU  - Kazman, Rick
+AU  - Haziyev, Serge
+AU  - Kropov, Valentyn
+AU  - Chtchourov, Dmitri
+
+T1  - Big Data as a Service: A Neo-Metropolis Model Approach for Innovation
+T2  - 2016 49th Hawaii International Conference on System Sciences (HICSS)
+PB  - IEEE
+
+
+
+
+SP  - 5458
+EP  - 5467
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Cioroaica, Emilia
+AU  - Chren, Stanislav
+AU  - Buhnova, Barbora
+AU  - Kuhn, Thomas
+AU  - Dimitrov, Dimitar
+
+T1  - Towards creation of a reference architecture for trust-based digital ecosystems
+T2  - Proceedings of the 13th European Conference on Software Architecture-Volume 2
+
+
+
+
+
+SP  - 273
+EP  - 276
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Cioroaica, Emilia
+AU  - Chren, Stanislav
+AU  - Buhnova, Barbora
+AU  - Kuhn, Thomas
+AU  - Dimitrov, Dimitar
+
+T1  - Towards creation of a reference architecture for trust-based digital ecosystems
+T2  - Proceedings of the 13th European Conference on Software Architecture-Volume 2
+
+
+Y1  - 2019
+
+
+SP  - 273–276
+EP  - 273–276
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Cloutier, Robert
+AU  - Muller, Gerrit
+AU  - Verma, Dinesh
+AU  - Nilchiani, Roshanak
+AU  - Hole, Eirik
+AU  - Bone, Mary
+T1  - The concept of reference architectures
+JO  - Systems Engineering
+Y1  - 2010
+VL  - 13
+IS  - 1
+SP  - 14
+EP  - 27
+
+
+
+
+U1  - 1098-1241
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Cuzzocrea, Alfredo
+
+T1  - A reference architecture for supporting secure big data analytics over cloud-enabled relational databases
+T2  - 2016 IEEE 40th Annual Computer Software and Applications Conference (COMPSAC)
+PB  - IEEE
+
+Y1  - 2016
+VL  - 2
+
+SP  - 356–358
+EP  - 356–358
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Czarnecki, Krzysztof
+AU  - Grünbacher, Paul
+AU  - Rabiser, Rick
+AU  - Schmid, Klaus
+AU  - Wasowski, Andrzej
+
+T1  - Cool features and tough decisions: a comparison of variability modeling approaches
+T2  - Proceedings of the sixth international workshop on variability modeling of software-intensive systems
+
+
+Y1  - 2012
+
+
+SP  - 173–182
+EP  - 173–182
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+
+T1  - Databricks
+
+
+
+
+
+UR  - https://databricks.com/
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - technology review insights in partnership with Databricks, M. I. T.
+
+T1  - Building a high-performance data organization
+
+PB  - Databricks
+
+Y1  - 2021
+
+
+
+UR  - https://databricks.com/p/whitepaper/mit-technology-review-insights-report
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Dehghani, Zhamak
+
+T1  - Data Mesh: Delivering Data-Driven Value at Scale
+PB  - O'Reilly Media
+
+Y1  - 2022
+
+
+
+UR  - https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398/ref=sr_1_1?crid=5YWKS24L2BK4&keywords=data+mesh&qid=1647136984&sprefix=dat%2Caps%2C646&sr=8-1
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Dehghani, Zhamak
+
+T1  - Data Mesh Principles and Logical Architecture
+
+PB  - martinfowler.com
+
+Y1  - 2020
+
+
+
+UR  - https://martinfowler.com/articles/data-mesh-principles.html
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Dehghani, Zhamak
+
+T1  - Data Mesh: Delivering Data-Driven Value at Scale
+PB  - O'Reilly Media
+
+Y1  - 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Demchenko, Yuri
+AU  - De Laat, Cees
+AU  - Membrey, Peter
+
+T1  - Defining architecture components of the Big Data Ecosystem
+T2  - 2014 International Conference on Collaboration Technologies and Systems (CTS)
+PB  - IEEE
+
+Y1  - 2014
+
+
+SP  - 104
+EP  - 112
+
+M3  - https://doi.org/10.1109/cts.2014.6867550
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Demchenko, Yuri
+AU  - De Laat, Cees
+AU  - Membrey, Peter
+
+T1  - Defining architecture components of the Big Data Ecosystem
+T2  - 2014 International conference on collaboration technologies and systems (CTS)
+PB  - IEEE
+
+Y1  - 2014
+
+
+SP  - 104–112
+EP  - 104–112
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Derras, Mustapha
+AU  - Deruelle, Laurent
+AU  - Douin, Jean-Michel
+AU  - Levy, Nicole
+AU  - Losavio, Francisca
+AU  - Pollet, Yann
+AU  - Reiner, Valérie
+
+T1  - Reference Architecture Design: A Practical Approach
+T2  - ICSOFT
+
+
+
+
+
+SP  - 633
+EP  - 640
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Derras, Mustapha
+AU  - Deruelle, Laurent
+AU  - Douin, Jean Michel
+AU  - Levy, Nicole
+AU  - Losavio, Francisca
+AU  - Pollet, Yann
+AU  - Reiner, Valérie
+
+T1  - Reference Architecture Design: a practical approach
+T2  - 13th International Conference on Software Technologies (ICSOFT)
+PB  - SciTePress-Science and Technology Publications
+
+Y1  - 2018
+
+
+SP  - 633–640
+EP  - 633–640
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Di Francesco, Paolo
+
+T1  - Architecting microservices
+T2  - 2017 IEEE International Conference on Software Architecture Workshops (ICSAW)
+PB  - IEEE
+
+Y1  - 2017
+
+
+SP  - 224–229
+EP  - 224–229
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Dragoni, Nicola
+AU  - Giallorenzo, Saverio
+AU  - Lafuente, Alberto Lluch
+AU  - Mazzara, Manuel
+AU  - Montesi, Fabrizio
+AU  - Mustafin, Ruslan
+AU  - Safina, Larisa
+T1  - Microservices: yesterday, today, and tomorrow
+JO  - Present and ulterior software engineering
+Y1  - 2017
+
+
+SP  - 195–216
+EP  - 195–216
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - THES
+AU  - Eichler, Rebecca Kay
+T1  - Metadata management in the data lake architecture
+Y1  - 2019
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Engelsman, Wilco
+AU  - Quartel, Dick
+AU  - Jonkers, Henk
+AU  - van Sinderen, Marten
+T1  - Extending enterprise architecture modelling with business goals and requirements
+JO  - Enterprise information systems
+Y1  - 2011
+VL  - 5
+IS  - 1
+SP  - 9–36
+EP  - 9–36
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Eridaputra, Hanif
+AU  - Hendradjaya, Bayu
+AU  - Sunindyo, Wikan Danar
+
+T1  - Modeling the requirements for big data application using goal oriented approach
+T2  - 2014 international conference on data and software engineering (ICODSE)
+
+
+Y1  - 2014
+
+
+SP  - 1–6
+EP  - 1–6
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Evans, Eric
+AU  - Evans, Eric J.
+
+T1  - Domain-driven design: tackling complexity in the heart of software
+PB  - Addison-Wesley Professional
+
+Y1  - 2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Ford, Neal
+AU  - Parsons, Rebecca
+AU  - Kua, Patrick
+
+T1  - Building evolutionary architectures: support constant change
+PB  - " O'Reilly Media, Inc."
+
+Y1  - 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - DRAFT NIST Big Data Interoperability Framework: Volume 5, Architectures White Paper Survey
+JO  - NIST Special Publication
+
+
+Y1  - 2015
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Fritzsch, Jonas
+AU  - Bogner, Justus
+AU  - Zimmermann, Alfred
+AU  - Wagner, Stefan
+
+T1  - From monolith to microservices: A classification of refactoring approaches
+T2  - International Workshop on Software Engineering Aspects of Continuous Development and New Paradigms of Software Production and Deployment
+PB  - Springer
+
+
+
+
+SP  - 128
+EP  - 141
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Galster, M.
+AU  - Avgeriou, P.
+T1  - Empirically-grounded reference architectures
+JO  - Joint ACM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Galster, Matthias
+AU  - Avgeriou, Paris
+
+T1  - Empirically-grounded reference architectures: a proposal
+T2  - Proceedings of the joint ACM SIGSOFT conference–QoSA and ACM SIGSOFT symposium–ISARCS on Quality of software architectures–QoSA and architecting critical systems–ISARCS
+
+
+Y1  - 2011
+
+
+SP  - 153–158
+EP  - 153–158
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Gamma, Erich
+
+T1  - Design patterns: elements of reusable object-oriented software
+PB  - Pearson Education India
+
+Y1  - 1995
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Gamma, Erich
+AU  - Helm, Richard
+AU  - Johnson, Ralph
+AU  - Johnson, Ralph E.
+AU  - Vlissides, John
+AU  - others
+
+T1  - Design patterns: elements of reusable object-oriented software
+PB  - Pearson Deutschland GmbH
+
+Y1  - 1995
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Gan, Yu
+AU  - Zhang, Yanqi
+AU  - Cheng, Dailun
+AU  - Shetty, Ankitha
+AU  - Rathi, Priyal
+AU  - Katarki, Nayan
+AU  - Bruno, Ariana
+AU  - Hu, Justin
+AU  - Ritchken, Brian
+AU  - Jackson, Brendon
+AU  - others
+
+T1  - An open-source benchmark suite for microservices and their hardware-software implications for cloud & edge systems
+T2  - Proceedings of the Twenty-Fourth International Conference on Architectural Support for Programming Languages and Operating Systems
+
+
+Y1  - 2019
+
+
+SP  - 3–18
+EP  - 3–18
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - RPRT
+AU  - Ehtisham Zaidi, Guido De Simoni
+
+T1  - Augmented Data Catalogs: Now an Enterprise Must-Have for Data and Analytics Leaders
+
+Y1  - 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - White, Andrew
+
+T1  - Our Top Data and Analytics Predicts for 2019
+
+PB  - Gartner
+
+Y1  - 2019
+
+
+
+UR  - https://blogs.gartner.com/andrew\_white/2019/01/03/our-top-data-and-analytics-predicts-for-2019/
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - Worldwide Software Architecture Summit'21
+
+PB  - Geekle
+
+Y1  - 2021
+
+
+
+UR  - https://events.geekle.us/software_architecture/
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Geerdink, Bas
+
+T1  - A reference architecture for big data solutions introducing a model to perform predictive analytics using big data technology
+T2  - 8th international conference for internet technology and secured transactions (ICITST-2013)
+PB  - IEEE
+
+Y1  - 2013
+
+
+SP  - 71–76
+EP  - 71–76
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Ghandour, Ahmad
+T1  - Big Data driven e-commerce architecture
+JO  - International Journal of Economics, Commerce and Management
+Y1  - 2015
+VL  - 3
+IS  - 5
+SP  - 940–947
+EP  - 940–947
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Gorton, Ian
+AU  - Klein, John
+T1  - Distribution, Data, Deployment
+JO  - STC 2015
+Y1  - 2015
+
+
+SP  - 78
+EP  - 78
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Graaf, Bas
+AU  - Van Dijk, Hylke
+AU  - Van Deursen, Arie
+
+T1  - Evaluating an embedded software reference architecture-industrial experience report
+T2  - Ninth European Conference on Software Maintenance and Reengineering
+PB  - IEEE
+
+Y1  - 2005
+
+
+SP  - 354–363
+EP  - 354–363
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Greefhorst, D.
+T1  - Een applicatie-architectuur voor het web bij de bank—de pro's en contra's van toestandsloosheid
+JO  - Software Release Magazine
+Y1  - 1999
+VL  - 2
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Greefhorst, Danny
+AU  - Gehner, Patrick
+T1  - Achmea streamlines application development and integration
+JO  - Via Nova Architectura
+Y1  - 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Gupta, Poonam
+AU  - Mokal, Trupti P.
+AU  - Shah, D. D.
+AU  - Satyanarayana, K. V. V.
+
+T1  - Event-driven SOA-based IoT architecture
+T2  - International Conference on Intelligent Computing and Applications
+PB  - Springer
+
+
+
+
+SP  - 247
+EP  - 258
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Hallerbach, Alena
+AU  - Bauer, Thomas
+AU  - Reichert, Manfred
+T1  - Capturing variability in business process models: the Provop approach
+JO  - Journal of Software Maintenance and Evolution: Research and Practice
+Y1  - 2010
+VL  - 22
+IS  - 6-7
+SP  - 519–546
+EP  - 519–546
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - The Hadoop Distributed File System
+
+
+
+
+
+
+
+UR  - https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
+
+
+
+
+
+
+
+
+ER  -
+TY  - CHAP
+AU  - Heilig, Leonard
+AU  - Voß, Stefan
+
+T1  - Managing cloud-based big data platforms: a reference architecture and cost perspective
+T2  - Big data management
+PB  - Springer
+
+Y1  - 2017
+
+
+SP  - 29–45
+EP  - 29–45
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - The package manager for Kubernetes
+
+
+
+
+
+
+
+UR  - https://helm.sh/
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Heudecker, Nick
+AU  - Kart, Lisa
+T1  - Survey Analysis: Big Data Investment Grows but Deployments Remain Scarce in 2014
+JO  - Stamford: Gartner
+Y1  - 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Hollingsworth, David
+AU  - Hampshire, U. K.
+T1  - Workflow management coalition: The workflow reference model
+JO  - Document Number TC00-1003
+Y1  - 1995
+VL  - 19
+IS  - 16
+SP  - 224
+EP  - 224
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Huberty, Mark
+T1  - Awaiting the second big data revolution: from digital noise to value creation
+JO  - Journal of Industry, Competition and Trade
+Y1  - 2015
+VL  - 15
+IS  - 1
+SP  - 35
+EP  - 47
+
+
+
+
+U1  - 1566-1679
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - O'Reilly, Barry
+
+T1  - How to Implement Hypothesis-Driven Development
+
+PB  - thoughtworks
+
+Y1  - 2014
+
+
+
+UR  - https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Iannino, A.
+T1  - Software reliability theory
+JO  - Encyclopedia of Software Engineering
+Y1  - 1994
+
+
+SP  - 1237–1253
+EP  - 1237–1253
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Indrasiri, Kasun
+AU  - Siriwardena, Prabath
+T1  - Microservices for the enterprise
+JO  - Apress, Berkeley
+Y1  - 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Stats, Internet Live
+
+T1  - Internet live stats
+
+
+
+Y1  - 2019
+
+
+
+UR  - https://www.internetlivestats.com/
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - IEC25010: 2011 systems and software engineering–systems and software quality requirements and evaluation (square)–system and software quality models
+
+
+
+Y1  - 2011
+VL  - 34
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - ISO18384-1. Information technology — Reference Architecture for Service Oriented Architecture (SOA RA) — Part 1: Terminology and concepts for SOA
+
+
+
+Y1  - 2016
+
+
+
+UR  - https://www.iso.org/standard/63104.html
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - ISO/IEC 20546:2019. Information technology — Big data — Overview and vocabulary
+
+
+
+Y1  - 2019
+
+
+
+UR  - https://www.iso.org/standard/68305.html
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - ISO/IEC TR 20547-1:2020. Information technology — Big data reference architecture — Part 1: Framework and application process
+
+
+
+Y1  - 2020
+
+
+
+UR  - https://www.iso.org/standard/71275.html
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - ISO/IEC 25000:2005. Software Engineering — Software product Quality Requirements and Evaluation (SQuaRE) — Guide to SQuaRE
+
+
+
+Y1  - 2014
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - ISO/IEC 29148:2018. Systems and software engineering — Life cycle processes — Requirements engineering
+
+
+
+Y1  - 2018
+
+
+
+UR  - https://www.iso.org/standard/72089.html
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - ISO/IEC/IEEE 42010:2011. Systems and software engineering — Architecture description
+
+
+
+Y1  - 2017
+
+
+
+UR  - https://www.iso.org/standard/50508.html
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - ISO 19115-1:2014. Geographic information — Metadata — Part 1: Fundamentals
+
+
+
+Y1  - 2019
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Jamshidi, Pooyan
+AU  - Pahl, Claus
+AU  - Mendonça, Nabor C.
+AU  - Lewis, James
+AU  - Tilkov, Stefan
+T1  - Microservices: The journey so far and challenges ahead
+JO  - IEEE Software
+Y1  - 2018
+VL  - 35
+IS  - 3
+SP  - 24
+EP  - 35
+
+
+
+
+U1  - 0740-7459
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Josey, Andrew
+
+T1  - TOGAF® Version 9.1-A Pocket Guide
+PB  - Van Haren
+
+Y1  - 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - Kafka Summit Europe 2021
+
+PB  - Confluent
+
+Y1  - 2021
+
+
+
+UR  - https://www.confluent.io/events/kafka-summit-europe-2021/
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Kakivaya, Gopal
+AU  - Xun, Lu
+AU  - Hasha, Richard
+AU  - Ahsan, Shegufta Bakht
+AU  - Pfleiger, Todd
+AU  - Sinha, Rishi
+AU  - Gupta, Anurag
+AU  - Tarta, Mihail
+AU  - Fussell, Mark
+AU  - Modi, Vipul
+AU  - others
+
+T1  - Service fabric: a distributed platform for building microservices in the cloud
+T2  - Proceedings of the thirteenth EuroSys conference
+
+
+Y1  - 2018
+
+
+SP  - 1–15
+EP  - 1–15
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Kassab, Mohamad
+AU  - Neill, Colin
+AU  - Laplante, Phillip
+T1  - State of practice in requirements engineering: contemporary data
+JO  - Innovations in Systems and Software Engineering
+Y1  - 2014
+VL  - 10
+IS  - 4
+SP  - 235–241
+EP  - 235–241
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Kazman, Rick
+AU  - Bass, Len
+AU  - Abowd, Gregory
+AU  - Webb, Mike
+
+T1  - SAAM: A method for analyzing the properties of software architectures
+T2  - Proceedings of 16th International Conference on Software Engineering
+
+
+Y1  - 1994
+
+
+SP  - 81–90
+EP  - 81–90
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Kazman, Rick
+AU  - Klein, Mark
+AU  - Barbacci, Mario
+AU  - Longstaff, Tom
+AU  - Lipson, Howard
+AU  - Carriere, Jeromy
+
+T1  - The architecture tradeoff analysis method
+T2  - Proceedings. fourth ieee international conference on engineering of complex computer systems (cat. no. 98ex193)
+PB  - IEEE
+
+Y1  - 1998
+
+
+SP  - 68–78
+EP  - 68–78
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Kazman, Rick
+AU  - Klein, Mark
+AU  - Barbacci, Mario
+AU  - Longstaff, Tom
+AU  - Lipson, Howard
+AU  - Carriere, Jeromy
+
+T1  - The architecture tradeoff analysis method
+T2  - Proceedings. Fourth IEEE International Conference on Engineering of Complex Computer Systems (Cat. No. 98EX193)
+PB  - IEEE
+
+
+
+
+SP  - 68
+EP  - 78
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Kazman, Rick
+AU  - Abowd, Gregory
+AU  - Bass, Len
+AU  - Clements, Paul
+T1  - Scenario-based analysis of software architecture
+JO  - IEEE software
+Y1  - 1996
+VL  - 13
+IS  - 6
+SP  - 47
+EP  - 55
+
+
+
+
+U1  - 0740-7459
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Kiran, Mariam
+AU  - Murphy, Peter
+AU  - Monga, Inder
+AU  - Dugan, Jon
+AU  - Baveja, Sartaj Singh
+
+T1  - Lambda architecture for cost-effective batch and speed big data processing
+T2  - 2015 IEEE International Conference on Big Data (Big Data)
+PB  - IEEE
+
+Y1  - 2015
+
+
+SP  - 2785–2792
+EP  - 2785–2792
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Klein, John
+AU  - Buglak, Ross
+AU  - Blockow, David
+AU  - Wuttke, Troy
+AU  - Cooper, Brenton
+
+T1  - A reference architecture for big data systems in the national security domain
+T2  - 2016 IEEE/ACM 2nd International Workshop on Big Data Software Engineering (BIGDSE)
+PB  - IEEE
+
+
+
+
+SP  - 51
+EP  - 57
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Klein, Mark H.
+AU  - Ralya, Thomas
+AU  - Pollak, Bill
+AU  - Obebza, R.
+AU  - Harbour, M. G.
+
+T1  - Guide to rate monotonic analysis for real-time systems
+
+PB  - Kluwer Academic Publishers
+
+Y1  - 1993
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Klein, John
+AU  - Buglak, Ross
+AU  - Blockow, David
+AU  - Wuttke, Troy
+AU  - Cooper, Brenton
+
+T1  - A reference architecture for big data systems in the national security domain
+T2  - 2016 IEEE/ACM 2nd International Workshop on Big Data Software Engineering (BIGDSE)
+PB  - IEEE
+
+Y1  - 2016
+
+
+SP  - 51–57
+EP  - 51–57
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Kohler, Jens
+AU  - Specht, Thomas
+
+T1  - Towards a Secure, Distributed, and Reliable Cloud-Based Reference Architecture for Big Data in Smart Cities
+
+PB  - IGI Global
+
+Y1  - 2019
+
+
+SP  - 38
+EP  - 70
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CHAP
+AU  - Kohler, Jens
+AU  - Specht, Thomas
+
+T1  - Towards a Secure, Distributed, and Reliable Cloud-Based Reference Architecture for Big Data in Smart Cities
+T2  - Big Data Analytics for Smart and Connected Cities
+PB  - IGI Global
+
+Y1  - 2019
+
+
+SP  - 38–70
+EP  - 38–70
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Kreps, Jay
+T1  - Questioning the lambda architecture
+JO  - Online article, July
+Y1  - 2014
+VL  - 205
+
+
+UR  - https://www.oreilly.com/radar/questioning-the-lambda-architecture/
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - La Rosa, Marcello
+AU  - van der Aalst, Wil M. P.
+AU  - Dumas, Marlon
+AU  - Ter Hofstede, Arthur H. M.
+T1  - Questionnaire-based variability modeling for system configuration
+JO  - Software & Systems Modeling
+Y1  - 2009
+VL  - 8
+IS  - 2
+SP  - 251–274
+EP  - 251–274
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Laigner, Rodrigo
+AU  - Zhou, Yongluan
+AU  - Salles, Marcos Antonio Vaz
+AU  - Liu, Yijian
+AU  - Kalinowski, Marcos
+T1  - Data Management in Microservices: State of the Practice, Challenges, and Research Directions
+JO  - arXiv preprint arXiv:2103.00170
+Y1  - 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Lankhorst, Marc M.
+AU  - Proper, Henderik Alex
+AU  - Jonkers, Henk
+T1  - The anatomy of the archimate language
+JO  - International Journal of Information System Modeling and Design (IJISMD)
+Y1  - 2010
+VL  - 1
+IS  - 1
+SP  - 1–32
+EP  - 1–32
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CHAP
+AU  - Lankhorst, Marc
+
+T1  - A Language for Enterprise Modelling
+T2  - Enterprise Architecture at Work
+PB  - Springer
+
+Y1  - 2013
+
+
+SP  - 75–114
+EP  - 75–114
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Laplante, Phillip A.
+
+T1  - Requirements engineering for software and systems
+PB  - Auerbach Publications
+
+Y1  - 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Leonard, Edward M.
+
+T1  - Design and implementation of an enterprise data warehouse
+PB  - Marquette University
+
+Y1  - 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Levin, B. O.
+T1  - Big data ecosystem reference architecture
+JO  - Microsoft Corporation
+Y1  - 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Lin, Jimmy
+T1  - The lambda and the kappa
+JO  - IEEE Internet Computing
+Y1  - 2017
+VL  - 21
+IS  - 05
+SP  - 60–66
+EP  - 60–66
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Lycett, Mark
+
+T1  - ‘Datafication’: Making sense of (big) data in a complex world
+
+PB  - Taylor & Francis
+
+Y1  - 2013
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Maamouri, Amine
+AU  - Sfaxi, Lilia
+AU  - Robbana, Riadh
+
+T1  - Phi: A Generic Microservices-Based Big Data Architecture
+T2  - European, Mediterranean, and Middle Eastern Conference on Information Systems
+
+
+Y1  - 2021
+
+
+SP  - 3–16
+EP  - 3–16
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Machado, Inês Araújo
+AU  - Costa, Carlos
+AU  - Santos, Maribel Yasmina
+T1  - Data mesh: concepts and principles of a paradigm shift in data architectures
+JO  - Procedia Computer Science
+Y1  - 2022
+VL  - 196
+
+SP  - 263–271
+EP  - 263–271
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Maier, Markus
+AU  - Serebrenik, A.
+AU  - Vanderfeesten, I. T. P.
+T1  - Towards a big data reference architecture
+JO  - University of Eindhoven
+Y1  - 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - GNU Make
+
+
+
+
+
+
+
+UR  - 
+           https://www.gnu.org/software/make/manual/make.html#toc-An-Introduction-to-Makefiles
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Mannering, Fred
+AU  - Bhat, Chandra R.
+AU  - Shankar, Venky
+AU  - Abdel-Aty, Mohamed
+T1  - Big data, traditional data and the tradeoffs between prediction and causality in highway-safety analysis
+JO  - Analytic methods in accident research
+Y1  - 2020
+VL  - 25
+
+SP  - 100113
+EP  - 100113
+
+
+
+
+U1  - 2213-6657
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Martı́nez-Prieto, Miguel A.
+AU  - Cuesta, Carlos E.
+AU  - Arias, Mario
+AU  - Fernández, Javier D.
+T1  - The solid architecture for real-time management of big semantic data
+JO  - Future Generation Computer Systems
+Y1  - 2015
+VL  - 47
+
+SP  - 62–79
+EP  - 62–79
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Marz, Nathan
+AU  - Warren, James
+
+T1  - Big Data: Principles and best practices of scalable real-time data systems
+PB  - New York; Manning Publications Co.
+
+Y1  - 2015
+
+
+SP  - 1
+EP  - 10
+
+M3  - https://doi.org/10.1109/tcss.2020.2995497
+
+
+U1  - 2329-924X
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Michelson, Brenda M.
+T1  - Event-driven architecture overview
+JO  - Patricia Seybold Group
+Y1  - 2006
+VL  - 2
+IS  - 12
+SP  - 10
+EP  - 1571
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Richardson, Chris
+
+T1  - Microservices Patterns: With examples in Java
+PB  - Manning; 1st edition
+
+Y1  - 2018
+
+
+
+UR  - https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1648261674&sr=8-1
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Press, Microsoft
+AU  - Joyner, Lin
+AU  - Malcolm, Graeme
+
+T1  - Application Architecture for. NET: Designing Applications and Services
+PB  - Microsoft Press
+
+Y1  - 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Miloslavskaya, Natalia
+AU  - Tolstoy, Alexander
+T1  - Big data, fast data and data lake concepts
+JO  - Procedia Computer Science
+Y1  - 2016
+VL  - 88
+
+SP  - 300–305
+EP  - 300–305
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Moher, David
+AU  - Shamseer, Larissa
+AU  - Clarke, Mike
+AU  - Ghersi, Davina
+AU  - Liberati, Alessandro
+AU  - Petticrew, Mark
+AU  - Shekelle, Paul
+AU  - Stewart, Lesley A.
+T1  - Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement
+JO  - Systematic reviews
+Y1  - 2015
+VL  - 4
+IS  - 1
+SP  - 1–9
+EP  - 1–9
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Molina, Javier Moreno
+AU  - García, Juan Ferrer
+AU  - Jiménez, Carlos Kuchkovsky
+
+T1  - Archer: An Event-Driven Architecture for Cyber-Physical Systems
+T2  - 2018 IEEE/ACM International Conference on Utility and Cloud Computing Companion (UCC Companion)
+PB  - IEEE
+
+
+
+
+SP  - 335
+EP  - 340
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Dehghani, Zhamak
+
+T1  - How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh
+
+PB  - martinfowler.com
+
+Y1  - 2019
+
+
+
+UR  - https://martinfowler.com/articles/data-monolith-to-mesh.html
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Montesi, Fabrizio
+AU  - Weber, Janine
+T1  - Circuit breakers, discovery, and API gateways in microservices
+JO  - arXiv preprint arXiv:1609.05830
+Y1  - 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Munaf, Raja Mubashir
+AU  - Ahmed, Jawwad
+AU  - Khakwani, Faraz
+AU  - Rana, Tauseef
+
+T1  - Microservices Architecture: Challenges and Proposed Conceptual Design
+T2  - 2019 International Conference on Communication Technologies (ComTech)
+PB  - IEEE
+
+
+
+
+SP  - 82
+EP  - 87
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Nadal, Sergi
+AU  - Herrero, Victor
+AU  - Romero, Oscar
+AU  - Abelló, Alberto
+AU  - Franch, Xavier
+AU  - Vansummeren, Stijn
+AU  - Valerio, Danilo
+T1  - A software reference architecture for semantic-aware Big Data systems
+JO  - Information and software technology
+Y1  - 2017
+VL  - 90
+
+SP  - 75
+EP  - 92
+
+
+
+
+U1  - 0950-5849
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Nadal, Sergi
+AU  - Herrero, Victor
+AU  - Romero, Oscar
+AU  - Abelló, Alberto
+AU  - Franch, Xavier
+AU  - Vansummeren, Stijn
+AU  - Valerio, Danilo
+T1  - A software reference architecture for semantic-aware Big Data systems
+JO  - Information and software technology
+Y1  - 2017
+VL  - 90
+
+SP  - 75–92
+EP  - 75–92
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Nakagawa, Elisa Yumi
+AU  - Martins, Rafael Messias
+AU  - Felizardo, Katia Romero
+AU  - Maldonado, Jose Carlos
+
+T1  - Towards a process to design aspect-oriented reference architectures
+T2  - XXXV Latin American Informatics Conference (CLEI) 2009
+
+
+Y1  - 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Nakagawa, Elisa Yumi
+AU  - Martins, Rafael Messias
+AU  - Felizardo, Katia Romero
+AU  - Maldonado, Jose Carlos
+
+T1  - Towards a process to design aspect-oriented reference architectures
+T2  - XXXV Latin American Informatics Conference (CLEI) 2009
+
+
+Y1  - 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Nakagawa, Elisa Yumi
+AU  - Oquendo, Flavio
+AU  - Becker, Martin
+
+T1  - Ramodel: A reference model for reference architectures
+T2  - 2012 Joint Working IEEE/IFIP Conference on Software Architecture and European Conference on Software Architecture
+
+
+Y1  - 2012
+
+
+SP  - 297–301
+EP  - 297–301
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Nakagawa, Elisa Y.
+AU  - Guessi, Milena
+AU  - Maldonado, José C.
+AU  - Feitosa, Daniel
+AU  - Oquendo, Flavio
+
+T1  - Consolidating a process for the design, representation, and evaluation of reference architectures
+T2  - 2014 IEEE/IFIP Conference on Software Architecture
+
+
+Y1  - 2014
+
+
+SP  - 143–152
+EP  - 143–152
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - NASA
+
+T1  - REFERENCE ARCHITECTURE FOR SPACE DATA SYSTEMS
+
+
+
+Y1  - 2008
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Nash, Harvey
+T1  - CIO SURVEY 2015
+JO  - Association with KPMG
+Y1  - 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Newman, Sam
+
+T1  - Building microservices
+PB  - " O'Reilly Media, Inc."
+
+Y1  - 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Partners, NewVantage
+
+T1  - Big Data and AI Executive Survey 2021
+
+PB  - NewVantage Partners
+
+Y1  - 2021
+
+
+
+UR  - https://www.newvantage.com/thoughtleadership
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Nguyen, Duc N.
+AU  - Usbeck, Kyle
+AU  - Mongan, William M.
+AU  - Cannon, Christopher T.
+AU  - Lass, Robert N.
+AU  - Salvage, Jeff
+AU  - Regli, William C.
+AU  - Mayk, Israel
+AU  - Urness, Todd
+
+T1  - A methodology for developing an agent systems reference architecture
+T2  - International Workshop on Agent-Oriented Software Engineering
+
+
+Y1  - 2010
+
+
+SP  - 177–188
+EP  - 177–188
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Norta, A.
+AU  - Grefen, P. W. P. J.
+
+T1  - Developing a reference architecture for inter-organizational business collaboration setup systems
+PB  - Beta, Research School for Operations Management and Logistics
+
+Y1  - 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Norta, Alexander Horst
+
+T1  - Exploring dynamic inter-organizational business process collaboration
+JO  - Dissertation Abstracts International
+
+
+Y1  - 2007
+VL  - 68
+IS  - 04
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Norta, Alex
+AU  - Grefen, Paul
+AU  - Narendra, Nanjangud C.
+T1  - A reference architecture for managing dynamic inter-organizational business processes
+JO  - Data & Knowledge Engineering
+Y1  - 2014
+VL  - 91
+
+SP  - 52–89
+EP  - 52–89
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - Unlock insights in your data with the best qualitative data analysis software
+
+PB  - NVIVO
+
+Y1  - 2022
+
+
+
+UR  - https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - OATH
+T1  - OATH Reference Architecture, Release 2.0 Initiative for Open AuTHentication 
+JO  - OATH
+Y1  - 2007
+
+
+
+UR  - https://openauthentication.org/wp-content/uploads/2015/09/ReferenceArchitectureVersion2.pdf
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Ordonez, Carlos
+T1  - Statistical model computation with UDFs
+JO  - IEEE Transactions on Knowledge and Data Engineering
+Y1  - 2010
+VL  - 22
+IS  - 12
+SP  - 1752
+EP  - 1765
+
+
+
+
+U1  - 1041-4347
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Pääkkönen, Pekka
+AU  - Pakkala, Daniel
+T1  - Reference architecture and classification of technologies, products and services for big data systems
+JO  - Big data research
+Y1  - 2015
+VL  - 2
+IS  - 4
+SP  - 166–186
+EP  - 166–186
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - Big Data and AI Executive Survey 2019
+JO  - Data and Innovation
+
+
+Y1  - 2019
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Plotkin, David
+
+T1  - Data stewardship: An actionable guide to effective data management and data governance
+PB  - Academic Press
+
+Y1  - 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Pohl, Klaus
+AU  - Böckle, Günter
+AU  - Van Der Linden, Frank
+
+T1  - Software product line engineering: foundations, principles, and techniques
+PB  - Springer
+
+Y1  - 2005
+VL  - 1
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Pope, Alan LaMont
+
+T1  - The CORBA reference guide: understanding the common object request broker architecture
+PB  - Addison-Wesley Longman Publishing Co., Inc.
+
+Y1  - 1998
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - QCon Software Conferences
+
+PB  - QCON
+
+Y1  - 2022
+
+
+
+UR  - https://qconferences.com/
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Quintero, Dino
+AU  - Lee, Frank N.
+AU  - others
+
+T1  - IBM reference architecture for high performance data and AI in healthcare and life sciences
+PB  - IBM Redbooks
+
+Y1  - 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Rad, Babak Bashari
+AU  - Ataei, Pouya
+T1  - The big data ecosystem and its environs
+JO  - International Journal of Computer Science and Network Security (IJCSNS)
+Y1  - 2017
+VL  - 17
+IS  - 3
+SP  - 38
+EP  - 38
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Rad, Babak Bashari
+AU  - Ataei, Pouya
+T1  - Evaluating Major Issues Regarding Reliability Management for Cloud-based Applications
+JO  - IJCSNS
+Y1  - 2017
+VL  - 17
+IS  - 7
+SP  - 168
+EP  - 168
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Rada, Babak Bashari
+AU  - Ataei, Pouya
+AU  - Khakbizc, Yasaman
+AU  - Akbarzadehd, Nafisseh
+T1  - The hype of emerging technologies: Big data as a service
+
+Y1  - 2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Ranjan, Jayanthi
+T1  - The 10 Vs of Big Data framework in the Context of 5 Industry Verticals
+JO  - Productivity
+Y1  - 2019
+VL  - 59
+IS  - 4
+
+
+
+
+
+U1  - 0032-9924
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Richardson, Chris
+
+T1  - Microservices patterns: with examples in Java
+PB  - Simon and Schuster
+
+Y1  - 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+
+
+
+
+Y1  - 2019
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+
+
+
+
+Y1  - 2007
+VL  - 68
+IS  - 04
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+
+
+
+
+Y1  - 2016
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Rohling, Adair José
+AU  - Neto, Valdemar Vicente Graciano
+AU  - Ferreira, Mauricio Gonçalves Vieira
+AU  - Dos Santos, Walter Abrahão
+AU  - Nakagawa, Elisa Yumi
+T1  - A reference architecture for satellite control systems
+JO  - Innovations in Systems and Software Engineering
+Y1  - 2019
+VL  - 15
+IS  - 2
+SP  - 139–153
+EP  - 139–153
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Rosemann, Michael
+AU  - Van der Aalst, Wil M. P.
+T1  - A configurable reference modelling language
+JO  - Information systems
+Y1  - 2007
+VL  - 32
+IS  - 1
+SP  - 1–23
+EP  - 1–23
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Rurua, Nino
+AU  - Eshuis, Rik
+AU  - Razavian, Maryam
+T1  - Representing variability in enterprise architecture
+JO  - Business & Information Systems Engineering
+Y1  - 2019
+VL  - 61
+IS  - 2
+SP  - 215–227
+EP  - 215–227
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Sahal, Radhya
+AU  - Breslin, John G.
+AU  - Ali, Muhammad Intizar
+T1  - Big data and stream processing platforms for Industry 4.0 requirements mapping for a predictive maintenance use case
+JO  - Journal of manufacturing systems
+Y1  - 2020
+VL  - 54
+
+SP  - 138
+EP  - 151
+
+
+
+
+U1  - 0278-6125
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Sang, Go Muan
+AU  - Xu, Lai
+AU  - De Vrieze, Paul
+
+T1  - A reference architecture for big data systems
+T2  - 2016 10th International Conference on Software, Knowledge, Information Management & Applications (SKIMA)
+PB  - IEEE
+
+Y1  - 2016
+
+
+SP  - 370–375
+EP  - 370–375
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Sang, Go Muan
+AU  - Xu, Lai
+AU  - Vrieze, Paul de
+
+T1  - Simplifying big data analytics systems with a reference architecture
+T2  - Working Conference on Virtual Enterprises
+PB  - Springer
+
+Y1  - 2017
+
+
+SP  - 242–249
+EP  - 242–249
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Santos, José Filipe Marreiros
+AU  - Guessi, Milena
+AU  - Galster, Matthias
+AU  - Feitosa, Daniel
+AU  - Nakagawa, Elisa Yumi
+
+T1  - A Checklist for Evaluation of Reference Architectures of Embedded Systems (S).
+T2  - SEKE
+
+
+Y1  - 2013
+VL  - 13
+
+SP  - 1–4
+EP  - 1–4
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - SAP - NEC Reference Architecture for SAP HANA & Hadoop
+
+PB  - SAP
+
+Y1  - 2016
+
+
+
+UR  - https://www.scribd.com/document/418835912/Whitepaper-NEC-SAPHANA-Hadoop
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Schmid, Klaus
+AU  - John, Isabel
+T1  - A customizable approach to full lifecycle variability management
+JO  - Science of Computer Programming
+Y1  - 2004
+VL  - 53
+IS  - 3
+SP  - 259–284
+EP  - 259–284
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - The leading Customer Data Platform
+
+
+
+
+
+
+
+UR  - https://segment.com/
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Selamat, Siti Aishah Mohd
+AU  - Prakoonwit, Simant
+AU  - Sahandi, Reza
+AU  - Khan, Wajid
+
+T1  - Big Data and IoT Opportunities for Small and Medium-Sized Enterprises (SMEs)
+
+PB  - IGI Global
+
+Y1  - 2019
+
+
+SP  - 77
+EP  - 88
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Shafi, Mansoor
+AU  - Molisch, Andreas F.
+AU  - Smith, Peter J.
+AU  - Haustein, Thomas
+AU  - Zhu, Peiying
+AU  - De Silva, Prasan
+AU  - Tufvesson, Fredrik
+AU  - Benjebbour, Anass
+AU  - Wunder, Gerhard
+T1  - 5G: A tutorial overview of standards, trials, challenges, deployment, and practice
+JO  - IEEE journal on selected areas in communications
+Y1  - 2017
+VL  - 35
+IS  - 6
+SP  - 1201
+EP  - 1221
+
+
+
+
+U1  - 0733-8716
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Shamseer, Larissa
+AU  - Moher, David
+AU  - Clarke, Mike
+AU  - Ghersi, Davina
+AU  - Liberati, Alessandro
+AU  - Petticrew, Mark
+AU  - Shekelle, Paul
+AU  - Stewart, Lesley A.
+T1  - Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015: elaboration and explanation
+JO  - Bmj
+Y1  - 2015
+VL  - 349
+
+
+
+
+
+
+U1  - 1756-1833
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Sharpe, Richard
+AU  - Van Lopik, Katherine
+AU  - Neal, Aaron
+AU  - Goodall, Paul
+AU  - Conway, Paul P.
+AU  - West, Andrew A.
+T1  - An industrial evaluation of an Industry 4.0 reference architecture demonstrating the need for the inclusion of security and human components
+JO  - Computers in industry
+Y1  - 2019
+VL  - 108
+
+SP  - 37–44
+EP  - 37–44
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Sievi-Korte, Outi
+AU  - Richardson, Ita
+AU  - Beecham, Sarah
+T1  - Software architecture design in global software development: An empirical study
+JO  - Journal of Systems and Software
+Y1  - 2019
+VL  - 158
+
+SP  - 110400
+EP  - 110400
+
+
+
+
+U1  - 0164-1212
+
+
+
+
+
+ER  -
+TY  - GEN
+AU  - Computing, Sigma
+
+T1  - Bridging the gap between data and business teams
+
+PB  - Sigma Computing
+
+Y1  - 2020
+
+
+
+UR  - https://www.sigmacomputing.com/resources/data-language-barrier/
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Singh, Nitin
+AU  - Lai, Kee-Hung
+AU  - Vejvar, Markus
+AU  - Cheng, T. C. E.
+T1  - Big data technology: Challenges, prospects and realities
+JO  - IEEE Engineering Management Review
+Y1  - 2019
+
+
+
+
+
+
+
+U1  - 0360-8581
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Sinnema, Marco
+AU  - Deelstra, Sybren
+AU  - Hoekstra, Piter
+
+T1  - The COVAMOF derivation process
+T2  - International Conference on Software Reuse
+PB  - Springer
+
+Y1  - 2006
+
+
+SP  - 101–114
+EP  - 101–114
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Sivarajah, Uthayasankar
+AU  - Kamal, Muhammad Mustafa
+AU  - Irani, Zahir
+AU  - Weerakkody, Vishanth
+T1  - Critical analysis of Big Data challenges and analytical methods
+JO  - Journal of Business Research
+Y1  - 2017
+VL  - 70
+
+SP  - 263–286
+EP  - 263–286
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Bass, Len
+AU  - Clements, Paul
+AU  - Kazman, Rick
+
+T1  - Software Architecture in Practice (SEI Series in Software Engineering) 4th Edition
+PB  - Addison-Wesley Professional; 4th edition
+
+Y1  - 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Sommerville, Ian
+
+T1  - Software Engineering, 9/E
+PB  - Pearson Education India
+
+Y1  - 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Sriraman, Akshitha
+AU  - Wenisch, Thomas F.
+
+T1  - μ suite: a benchmark suite for microservices
+T2  - 2018 IEEE International Symposium on Workload Characterization (IISWC)
+
+
+Y1  - 2018
+
+
+SP  - 1–12
+EP  - 1–12
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Stricker, Vanessa
+AU  - Lauenroth, Kim
+AU  - Corte, Piero
+AU  - Gittler, Frederic
+AU  - De Panfilis, Stefano
+AU  - Pohl, Klaus
+
+T1  - Creating a Reference Architecture for Service-Based Systems-A Pattern-Based Approach
+T2  - Future Internet Assembly
+
+
+
+
+
+SP  - 149
+EP  - 160
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CHAP
+AU  - Stricker, Vanessa
+AU  - Lauenroth, Kim
+AU  - Corte, Piero
+AU  - Gittler, Frederic
+AU  - De Panfilis, Stefano
+AU  - Pohl, Klaus
+
+T1  - Creating a reference architecture for service-based systems–a pattern-based approach
+T2  - Towards the Future Internet
+PB  - IOS Press
+
+Y1  - 2010
+
+
+SP  - 149–160
+EP  - 149–160
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - THES
+AU  - Suthakar, Uthayanath
+T1  - A scalable data store and analytic platform for real-time monitoring of data-intensive scientific infrastructure
+Y1  - 2017
+PB  - Brunel University London
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Svahnberg, Mikael
+AU  - Van Gurp, Jilles
+AU  - Bosch, Jan
+T1  - A taxonomy of variability realization techniques
+JO  - Software: Practice and experience
+Y1  - 2005
+VL  - 35
+IS  - 8
+SP  - 705–754
+EP  - 705–754
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - Terraform is an open-source infrastructure as code software tool that provides a consistent CLI
+
+
+
+
+
+
+
+UR  - https://www.terraform.io/
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Terrizzano, Ignacio G.
+AU  - Schwarz, Peter M.
+AU  - Roth, Mary
+AU  - Colino, John E.
+
+T1  - Data Wrangling: The Challenging Yourney from the Wild to the Lake
+T2  - CIDR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - State of Data Mesh 2022
+
+PB  - ThoughtWorks
+
+Y1  - 2022
+
+
+
+UR  - https://www.thoughtworks.com/about-us/events/state-of-data-mesh-2022
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Ünal, Perin
+
+T1  - Reference architectures and standards for the Internet of Things and Big Data in Smart Manufacturing
+T2  - 2019 7th International Conference on Future Internet of Things and Cloud (FiCloud)
+PB  - IEEE
+
+Y1  - 2019
+
+
+SP  - 243–250
+EP  - 243–250
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Viana, Phillip
+AU  - Sato, Liria
+
+T1  - A proposal for a reference architecture for long-term archiving, preservation, and retrieval of big data
+T2  - 2014 IEEE 13th International Conference on Trust, Security and Privacy in Computing and Communications
+PB  - IEEE
+
+Y1  - 2014
+
+
+SP  - 622–629
+EP  - 622–629
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Villari, Massimo
+AU  - Celesti, Antonio
+AU  - Fazio, Maria
+AU  - Puliafito, Antonio
+
+T1  - AllJoyn Lambda: An architecture for the management of smart environments in IoT
+T2  - 2014 International Conference on Smart Computing Workshops
+PB  - IEEE
+
+
+
+
+SP  - 9
+EP  - 14
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Vogel, Oliver
+AU  - Arnold, Ingo
+AU  - Chughtai, Arif
+AU  - Ihler, Edmund
+AU  - Kehrer, Timo
+AU  - Mehlig, Uwe
+AU  - Zdun, Uwe
+T1  - Software-Architektur: Grundlagen–Konzepte
+JO  - Praxis
+Y1  - 2009
+VL  - 2
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Vogel, Oliver
+AU  - Arnold, Ingo
+AU  - Chughtai, Arif
+AU  - Ihler, Edmund
+AU  - Kehrer, Timo
+AU  - Mehlig, Uwe
+AU  - Zdun, Uwe
+T1  - Software-Architektur: Grundlagen–Konzepte
+JO  - Praxis
+Y1  - 2009
+VL  - 2
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Volk, Matthias
+AU  - Staegemann, Daniel
+AU  - Trifonova, Ivayla
+AU  - Bosse, Sascha
+AU  - Turowski, Klaus
+T1  - Identifying similarities of big data projects–a use case driven approach
+JO  - IEEE Access
+Y1  - 2020
+VL  - 8
+
+SP  - 186599–186619
+EP  - 186599–186619
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Waseem, Muhammad
+AU  - Liang, Peng
+AU  - Shahin, Mojtaba
+T1  - A systematic mapping study on microservices architecture in devops
+JO  - Journal of Systems and Software
+Y1  - 2020
+VL  - 170
+
+SP  - 110798
+EP  - 110798
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Weyrich, Michael
+AU  - Ebert, Christof
+T1  - Reference architectures for the internet of things
+JO  - IEEE Software
+Y1  - 2015
+VL  - 33
+IS  - 1
+SP  - 112–116
+EP  - 112–116
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - GEN
+
+
+T1  - ISO/IEC 26550: 2015-Software and systems engineering–Reference model for product line engineering and management
+
+
+
+Y1  - 2015
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Wieringa, Roel J.
+
+T1  - Design science methodology for information systems and software engineering
+PB  - Springer
+
+Y1  - 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - CONF
+AU  - Williams, Lloyd G.
+AU  - Smith, Connie U.
+
+T1  - PASASM: a method for the performance assessment of software architectures
+T2  - Proceedings of the 3rd international workshop on Software and performance
+
+
+
+
+
+SP  - 179
+EP  - 189
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Williams, Michael
+AU  - Moser, Tami
+T1  - The art of coding and thematic exploration in qualitative research
+JO  - International Management Review
+Y1  - 2019
+VL  - 15
+IS  - 1
+SP  - 45–55
+EP  - 45–55
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Wu, Hongjing
+
+T1  - A reference architecture for Adaptive Hypermedia Applications
+PB  - Citeseer
+
+Y1  - 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - BOOK
+AU  - Wu, Hongjing
+
+T1  - A reference architecture for Adaptive Hypermedia Applications
+PB  - Citeseer
+
+Y1  - 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Yu, Jing-Huan
+AU  - Zhou, Zi-Meng
+T1  - Components and development in Big Data system: A survey
+JO  - Journal of Electronic Science and Technology
+Y1  - 2019
+VL  - 17
+IS  - 1
+SP  - 51–72
+EP  - 51–72
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Zimmermann, Hubert
+T1  - OSI reference model-the ISO model of architecture for open systems interconnection
+JO  - IEEE Transactions on communications
+Y1  - 1980
+VL  - 28
+IS  - 4
+SP  - 425–432
+EP  - 425–432
+
+
+
+
+
+
+
+
+
+
+ER  -
+TY  - JOUR
+AU  - Zimmermann, Olaf
+T1  - Microservices tenets
+JO  - Computer Science-Research and Development
+Y1  - 2017
+VL  - 32
+IS  - 3
+SP  - 301–310
+EP  - 301–310
+
+
+
+
+
+
+
+
+
+
+ER  -

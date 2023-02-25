@@ -1,0 +1,50 @@
+Abran, A., Moore, J. W., Bourque, P., Dupuis, R., & Tripp, L. (2004). Software engineering body of knowledge. IEEE Computer Society, Angela Burgess, 25.
+Al-Jaroodi, J., & Mohamed, N. (2016). Characteristics and requirements of big data analytics applications. In 2016 IEEE 2nd International Conference on Collaboration and Internet Computing (CIC) (pp. 426–432).
+Angelov, S., Trienekens, J. J. M., & Grefen, P. (2008). Towards a method for the evaluation of reference architectures: Experiences from a case. In European Conference on Software Architecture (pp. 225–240). Springer.
+Angelov, S., Grefen, P., & Greefhorst, D. (2009). A classification of software reference architectures: Analyzing their success and effectiveness. In 2009 Joint Working IEEE/IFIP Conference on Software Architecture & European Conference on Software Architecture (pp. 141–150).
+Ataei, P., & Litchfield, A. (2022). The state of big data reference architectures: A systematic literature review. IEEE Access.
+Avgeriou, P. (2003). Describing, instantiating and evaluating a reference architecture: A case study. Enterprise Architecture Journal, 342, 1-24.
+Bahrami, M., & Singhal, M. (2015). The role of cloud computing architecture in big data. Springer, pp. 275-295.
+Bass, L., Clements, P., & Kazman, R. (2021). Software architecture in practice (SEI series in software engineering) (4th ed.). Addison-Wesley Professional.
+Bayer, J., Flege, O., Knauber, P., Laqua, R., Muthig, D., Schmid, K., Widen, T., & DeBaud, J. M. (1999). Pulse: A methodology to develop software product lines. In Proceedings of the 1999 Symposium on Software Reusability (pp. 122–131).
+Cackett, D. (2013). Information management and big data, a reference architecture. Oracle: Redwood City, CA, USA. URL: https://www.oracle.com/technetwork/topics/entarch/articles/info-mgmt-big-data-ref-arch1902853.pdf
+Chang, W. L., & Boyd, D. (2018). NIST big data interoperability framework: Volume 6, big data reference architecture. National Institute of Standards and Technology.
+Chen, H. M., Kazman, R., & Haziyev, S. (2016). Agile big data analytics development: An architecture-centric approach. In 2016 49th Hawaii International Conference on System Sciences (HICSS) (pp. 5378–5387). IEEE.
+Cloutier, R., Muller, G., Verma, D., Nilchiani, R., Hole, E., & Bone, M. (2010). The concept of reference architectures. Systems Engineering, 13(1), 14–27.
+Dehghani, Z. (2022). Data Mesh: Delivering Data-Driven Value at Scale. O’Reilly Media.
+Derras, M., Deruelle, L., Douin, J. M., Levy, N., Losavio, F., Pollet, Y., & Reiner, V. (n.d.). Reference architecture design: A practical approach. In ICSOFT (pp. 633–640).
+DRAFT NIST Big Data Interoperability Framework: Volume 5, Architectures White Paper Survey. (2015).
+Eridaputra, H., Hendradjaya, B., & Sunindyo, W. D. (2014). Modeling the requirements for big data application using goal-oriented approach. In 2014 International Conference on Data and Software Engineering (ICODSE) (pp. 1–6).
+Evans, E., & Evans, E. J. (2004). Domain-driven design: Tackling complexity in the heart of software. Addison-Wesley Professional.
+Galster, M., & Avgeriou, P. (2011). Empirically-grounded reference architectures: A proposal. In Proceedings of the Joint ACM SIGSOFT Conference–QoSA and ACM SIGSOFT Symposium–ISARCS on Quality of Software Architectures–QoSA and Architecting Critical Systems–ISARCS (pp. 153–158).
+ISO 18384-1 (2016). Information technology — Reference Architecture for Service Oriented Architecture (SOA RA) — Part 1: Terminology and concepts for SOA. International Organization for Standardization.
+ISO/IEC 25000:2005 (2014). Software Engineering — Software product Quality Requirements and Evaluation (SQuaRE) — Guide to SQuaRE. International Organization for Standardization.
+ISO/IEC 26550:2015 (2015). Software and systems engineering – Reference model for product line engineering and management. International Organization for Standardization.
+ISO/IEC 29148:2018. Systems and software engineering - Life cycle processes - Requirements engineering. (2018). Retrieved from https://www.iso.org/standard/72089.html
+ISO/IEC/IEEE 42010:2011. Systems and software engineering - Architecture description. (2017). Retrieved from https://www.iso.org/standard/50508.html
+ISO/IEC TR 20547-1:2020. Information technology - Big data reference architecture - Part 1: Framework and application process. (2020). Retrieved from https://www.iso.org/standard/71275.html
+Kassab, M., Neill, C., & Laplante, P. (2014). State of practice in requirements engineering: contemporary data. Innovations in Systems and Software Engineering, 10(4), 235-241.
+Kazman, R., Klein, M., Barbacci, M., Longstaff, T., Lipson, H., & Carriere, J. (n.d.). The architecture tradeoff analysis method. In Proceedings. Fourth IEEE International Conference on Engineering of Complex Computer Systems (Cat. No. 98EX193) (pp. 68-78). IEEE.
+Kiran, M., Murphy, P., Monga, I., Dugan, J., & Baveja, S. S. (2015). Lambda architecture for cost-effective batch and speed big data processing. In 2015 IEEE International Conference on Big Data (Big Data) (pp. 2785-2792). IEEE.
+Klein, J., Buglak, R., Blockow, D., Wuttke, T., & Cooper, B. (n.d.). A reference architecture for big data systems in the national security domain. In 2016 IEEE/ACM 2nd International Workshop on Big Data Software Engineering (BIGDSE) (pp. 51-57). IEEE.
+Laplante, P. A. (2017). Requirements engineering for software and systems. Auerbach Publications.
+Levin, B. O. (2013). Big data ecosystem reference architecture. Microsoft Corporation.
+Lin, J. (2017). The lambda and the kappa. IEEE Internet Computing, 21(05), 60-66.
+Maamouri, A., Sfaxi, L., & Robbana, R. (2021). Phi: A generic microservices-based big data architecture. In European, Mediterranean, and Middle Eastern Conference on Information Systems (pp. 3-16).
+Maier, M., Serebrenik, A., & Vanderfeesten, I. T. P. (2013). Towards a big data reference architecture. University of Eindhoven.
+Nakagawa, E. Y., Guessi, M., Maldonado, J. C., Feitosa, D., & Oquendo, F. (2014). Consolidating a process for the design, representation, and evaluation of reference architectures. In 2014 IEEE/IFIP Conference on Software Architecture (pp. 143-152).
+Nakagawa, E. Y., Martins, R. M., Felizardo, K. R., & Maldonado, J. C. (2009). Towards a process to design aspect-oriented reference architectures. In XXXV Latin American Informatics Conference (CLEI) 2009.
+NASA. (2008). Reference architecture for space data systems.
+Partners, NewVantage. (2021). Big data and AI executive survey 2021. Retrieved from https://www.newvantage.com/thoughtleadership
+Quintero, Dino, Frank N Lee et al. (2019), "IBM Reference Architecture for High Performance Data and AI in Healthcare and Life Sciences," IBM Redbooks, vol. 0, no. 0, pp. 1-22.
+Richardson, Chris (2018), "Microservices Patterns: With Examples in Java," Simon and Schuster, vol. 0, no. 0, pp. 1-432.
+SAP - NEC Reference Architecture for SAP HANA & Hadoop (2016), URL: https://www.scribd.com/document/418835912/Whitepaper-NEC-SAPHANA-Hadoop.
+Sommerville, Ian (2011), "Software Engineering," 9th ed., Pearson Education India, vol. 0, no. 0, pp. 1-816.
+Stricker, Vanessa, Kim Lauenroth, Piero Corte, Frederic Gittler, Stefano De Panfilis and Klaus Pohl (2010), "Creating a Reference Architecture for Service-Based Systems – A Pattern-Based Approach," in "Towards the Future Internet," IOS Press, vol. 0, no. 0, pp. 149-160.
+Suthakar, Uthayanath (2017), "A Scalable Data Store and Analytic Platform for Real-Time Monitoring of Data-Intensive Scientific Infrastructure," PhD thesis, Brunel University London, vol. 0, no. 0, pp. 1-196.
+Technology Review Insights in partnership with Databricks, MIT (2021), "Building a High-Performance Data Organization," URL: https://databricks.com/p/whitepaper/mit-technology-review-insights-report.
+Volk, Matthias, Daniel Staegemann, Ivayla Trifonova, Sascha Bosse and Klaus Turowski (2020), "Identifying Similarities of Big Data Projects – A Use Case Driven Approach," IEEE Access, vol. 8, pp. 186599-186619.
+Weyrich, Michael and Christof Ebert (2015), "Reference Architectures for the Internet of Things," IEEE Software, vol. 33, no. 1, pp. 112-116.
+White, Andrew (2019), "Our Top Data and Analytics Predictions for 2019," URL: https://blogs.gartner.com/andrew-white/2019/01/03/our-top-data-and-analytics-predicts-for-2019/.
+Wieringa, Roel J (2014), "Design Science Methodology for Information Systems and Software Engineering," Springer, vol. 0, no. 0, pp. 1-361.
+Yu, Jing-Huan and Zi-Meng Zhou (2019), "Components and Development in Big Data System: A Survey," Journal of Electronic Science and Technology, vol. 17, no. 1, pp. 51-72.
